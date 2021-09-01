@@ -1,6 +1,6 @@
 Package: dosePrism
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: c(
     person("Eric", "Yu", email = "yzr96@student.ubc.ca", role = c("aut", "cph")),
     person("William", "Xu", email = "yihangxu@student.ubc.ca", role = c("aut", "cre")))
